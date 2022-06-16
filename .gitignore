@@ -3,9 +3,9 @@ DerivedDataCache
 Intermediate
 Saved
 Plugins
-Content/
-!Content/StreamContent
-!Content/FromBlender
+Content/*
+!Content/StreamContent/
+!Content/FromBlender/
 .vscode
 .vs
 *.VC.db
