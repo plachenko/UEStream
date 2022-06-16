@@ -2,8 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content
 Plugins
+Content/*
 !Content/StreamContent
 !Content/FromBlender
 .vscode
