@@ -3,8 +3,8 @@ DerivedDataCache
 Intermediate
 Saved
 Plugins
-Content/StarterContent
-Content/Meadow_Environment_Set
+Content
+!Content/StreamContent
 .vscode
 .vs
 *.VC.db
