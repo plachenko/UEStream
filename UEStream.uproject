@@ -34,11 +34,19 @@
 		},
 		{
 			"Name": "AlterMesh",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "VlcMedia",
+			"Enabled": false
 		}
 	]
 }
